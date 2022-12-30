@@ -1,0 +1,18 @@
+- Main data for world cases, recovered and deaths: https://github.com/owid/covid-19-data/tree/master/public/data
+- Main page for some visual ideas: https://ourworldindata.org/coronavirus
+- Other sources:
+
+https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/situacionActual.htm
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.sanidad.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov/documentos/Actualizacion_651_COVID-19.pdf
+https://www.olivia.es/coronavirus-power-bi-microsoft/
+https://ourworldindata.org/coronavirus
+https://github.com/CSSEGISandData/COVID-19/find/master
+https://github.com/owid/covid-19-data/tree/master/public
+https://github.com/owid/covid-19-data/tree/master/public/data
+
+- Link to the report:
+
+https://app.powerbi.com/view?r=eyJrIjoiNmQ3ZmVmMWMtNmFkNS00MThhLTlmZGUtZTBlMzg4N2U5NGM4IiwidCI6IjZjNzhkMmQxLWQ3MjctNDA2Zi05MDljLTkzNWQ0OGVkYzY0MSIsImMiOjh9
+
+
+
