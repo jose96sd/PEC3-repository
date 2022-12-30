@@ -12,7 +12,4 @@ https://github.com/owid/covid-19-data/tree/master/public/data
 
 - Link to the report:
 
-https://app.powerbi.com/view?r=eyJrIjoiNmQ3ZmVmMWMtNmFkNS00MThhLTlmZGUtZTBlMzg4N2U5NGM4IiwidCI6IjZjNzhkMmQxLWQ3MjctNDA2Zi05MDljLTkzNWQ0OGVkYzY0MSIsImMiOjh9
-
-
-
+https://app.powerbi.com/view?r=eyJrIjoiM2IwNmRlODYtMWViOS00MWU4LWE4OTctN2JlNjIyMGYzYWFmIiwidCI6IjZjNzhkMmQxLWQ3MjctNDA2Zi05MDljLTkzNWQ0OGVkYzY0MSIsImMiOjh9
